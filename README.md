@@ -81,6 +81,12 @@ psql -d mydb -f sql/rfm_query.sql
 >
 > Resultados calculados sobre el dataset incluido: **200 clientes · 2,272 transacciones · $140,132 de revenue total**
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JulianDataScienceExplorerV2/Customer-Segmentation-RFM/main/data/clusters_3d.png" alt="3D RFM Clusters" width="800"/>
+</p>
+<br/>
+
 ### K-Means Performance / Desempeno del Modelo
 | Metric | Value | Interpretation |
 |--------|-------|---------------|
